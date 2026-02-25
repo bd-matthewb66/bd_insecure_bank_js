@@ -20,7 +20,6 @@
         "node-serialize": "^0.0.4",
         "sequelize": "^6.32.1",
         "sqlite3": "^5.1.6",
-        "check-dependencies": "^1.1.0",
     },
     "devDependencies": {
         "eslint": "^8.46.0",
